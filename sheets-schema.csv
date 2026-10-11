@@ -1,0 +1,7 @@
+sheet_name,column_headers
+SALES,"date,time,group_id,user_id,display_name,sales_total,cash,qr,delivery,other,payments_total,difference,status,raw_message,message_id,event_id"
+STOCK,"date,time,group_id,user_id,display_name,item_code,item_name,unit,opening,received,used,waste,closing_reported,closing_calc,variance,min_stock,stock_status,raw_message,message_id,event_id"
+EQUIPMENT,"date,time,group_id,user_id,display_name,equipment_id,equipment_name,status,issue_detail,photo_url,action_required,raw_message,message_id,event_id"
+LINE_LOG,"event_time,event_date,group_id,user_id,display_name,message_id,message_type,raw_message,parsed_type,parsed_json,process_status,error_message,event_id"
+ITEM_MASTER,"item_code,item_name,unit,active,min_stock"
+EQUIPMENT_MASTER,"equipment_id,equipment_name,location,active"
